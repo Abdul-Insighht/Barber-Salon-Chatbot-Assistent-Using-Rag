@@ -1,0 +1,43 @@
+# Core Web Framework
+streamlit
+fastapi
+uvicorn[standard]
+
+# Database & Storage
+supabase
+psycopg2-binary
+
+# Environment & Configuration
+python-dotenv
+pydantic
+
+# AI & Language Models
+google-generativeai
+langchain
+langchain-google-genai
+openai
+
+# HTTP Requests & APIs
+requests
+httpx
+
+# Data Processing & Utilities
+pandas
+numpy
+python-dateutil
+pytz
+
+# Logging & Monitoring
+loguru
+
+# JSON & Data Serialization
+ujson
+
+# Google Calendar Integration (if needed directly)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Additional Utilities
+regex
+typing-extensions

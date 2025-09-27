@@ -1,12 +1,11 @@
 # Supabase Configuration
-SUPABASE_URL=https://ijnwimoqrbmrphawpmbd.supabase.co
-SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlqbndpbW9xcmJtcnBoYXdwbWJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc3NTkwNDgsImV4cCI6MjA3MzMzNTA0OH0.ZV0ZZfzN2DJCGM3ElxWv9h9fWkrED1XYj7UAaEOe66M
-
+SUPABASE_URL=
+SUPABASE_KEY=
 # Google Gemini API Configuration  
-GEMINI_API_KEY=AIzaSyBYnQi_0ARDIrlIaGw--ETJ6MgpSQgUXDE
+GEMINI_API_KEY=
 
 # n8n Webhook Configuration
-N8N_WEBHOOK_URL=https://nexletech12.app.n8n.cloud/webhook/book
+N8N_WEBHOOK_URL=
 
 
 # Application Configuration
@@ -18,4 +17,5 @@ FASTAPI_HOST=localhost
 FASTAPI_PORT=8000
 
 # Logging Configuration
+
 LOG_LEVEL=INFO
